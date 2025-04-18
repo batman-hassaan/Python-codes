@@ -5,7 +5,7 @@ A simple and accurate Body Mass Index (BMI) Calculator built with Python. This t
 - User inputs height (in centimeters)  
 - User inputs weight (in kilograms)  
 - The program calculates BMI using the formula:  
-BMI = weight (kg) / (height (m))²
+BMI = weight (kg) / (height (m))².
 
 
 - BMI is interpreted into categories like "Normal", "Overweight", "Obese Class I", etc.
